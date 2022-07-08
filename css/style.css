@@ -1,0 +1,171 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+.abc {
+    background-color: rgb(253,101,6);
+ 
+
+    
+}
+.abc1 {
+    color: white;
+}
+.abc2 {
+    
+    width: 300px;
+    height: 50px;
+    border-radius: 25px;
+    border: 0px;
+    margin-top: 10px;
+}
+.abc3 {
+    font-size: 25px;
+    color: white;
+    margin-left: px;
+}
+.abc4 {
+
+    color: white;
+}
+.abc10 {
+   
+    
+    color: white;
+}
+
+.abc5 {
+
+    color:  white;
+}
+.abc6 {
+    color: rgb(61, 61, 61);
+    font-weight: 500;
+}
+.icon-bar {
+    background-color: black;
+    color: black;
+}
+.abc7 {
+    color: rgb(253,101,6);
+    margin-right: 5px;
+}
+.abc9 {
+margin-top: 5px;
+}
+.abc10 {
+position: relative;
+right: 10px;
+top: 5px;
+    
+}
+.abc11 {
+    position: relative;
+    right: 10px;
+
+ 
+}
+.abc12 {
+   background-color:;
+ 
+}
+.abc13 {
+    background-color: rgb(245,245,245);
+}
+.abc14 {
+    color: white;
+    background-color: rgb(253,101,6);
+    padding: 5px;
+}
+.abc15 {
+    border-bottom: 2px solid rgb(253,101,6);
+}
+.a {
+    background-color: white;
+}
+.aa {
+    font-size: 20px;
+}
+.aaa {
+width: 150px !important;
+margin-top: 15px;
+
+}
+.abc16 {
+    width: 100%;
+}
+.owl-dots {
+    text-align: center;
+    margin-top: 20px;
+
+}
+.owl-dot {
+    height: 10px;
+    width: 35px;
+    border:  2px solid black !important;
+    border-radius: 20px;
+    margin: 0 5px;
+    transition: all 0,3s ease;
+}
+.owl-dot.active {
+    background-color: black !important;
+}
+.abcd {
+    color: rgb(253,101,6);
+}
+.a1 {
+    margin-left: 29px;
+}
+.abc19 {
+    width: 300px !important;
+    height: 200px!important;
+}
+.a2  {
+    border: 2px solid white !important;
+    margin-left: 15px !important;
+    margin-top: 10px;
+    background-color: white;
+}
+.a3 {
+    color: red;
+    margin-left: 5px;
+}
+.a4 {
+    border: 2px solid rgb(253,101,6);
+    border-radius: 50px;
+    width: 150px;
+    text-align: center;
+    margin-top: 10px;
+    background-color: white;
+    
+}
+.a4:hover {
+    background-color: rgb(253,101,6);
+    color: white;
+}
+.a5 {
+    text-align: center;
+    font-weight: bold;
+    color: red;
+}
+.a6 {
+    background-color: red;
+    color: white;
+    width: 100px;
+    text-align: center;
+    font-size: 20px;
+    border: 0px;
+    border-radius: 29px;
+    margin-left: 300px;
+    
+}
+.a7 {
+    background-color: white;
+}
+.a8 {
+    width: 120px;
+    height: 50px;
+}
+.a9 {
+    color: rgb(253,101,6);
+}
