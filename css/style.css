@@ -172,7 +172,8 @@ margin-top: 15px;
 }
 .a10:hover {
     transform: scale(1.1);
-    transition: all 0.5 ease !important;
+    transition:  0.5 ease !important;
+    filter: brightness(0.9);
 
 }
 .a11 {
@@ -187,7 +188,27 @@ margin-top: 15px;
 .a13 {
     width: 100%;
     margin-top: 10px;
+    transition: all 0.5 ease !important;
+}
+.a13:hover {
+    filter: brightness(0.7);
 }
 .a14 {
     margin-top: 20px;
 }
+.a16 {
+    width: 70px;
+    border: 2px solid white;
+    border-radius: 5px;
+    background-color: rgb(253,101,6);
+    color: white;
+
+}
+.a17 {
+    width: 70px;
+    border: 2px solid white;
+    border-radius: 5px;
+    background-color: red;
+    color: white;
+
+} 
