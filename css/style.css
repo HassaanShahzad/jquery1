@@ -2,8 +2,14 @@
     margin: 0px;
     padding: 0px;
 }
+
+body {
+    overflow-x: hidden;
+}
+
 .abc {
     background-color: rgb(253,101,6);
+
  
 
     
@@ -13,25 +19,26 @@
 }
 .abc2 {
     
-    width: 300px;
-    height: 50px;
+    z-index: 1;
     border-radius: 25px;
     border: 0px;
     margin-top: 10px;
+    padding: 15px 15px;
 }
 .abc3 {
     font-size: 25px;
     color: white;
-    margin-left: px;
+ 
 }
 .abc4 {
 
     color: white;
 }
 .abc10 {
-   
-    
     color: white;
+}
+.a30 {
+    margin-top: 5px;
 }
 
 .abc5 {
@@ -51,12 +58,12 @@
     margin-right: 5px;
 }
 .abc9 {
-margin-top: 5px;
+margin-top: px;
 }
 .abc10 {
 position: relative;
 right: 10px;
-top: 5px;
+
     
 }
 .abc11 {
@@ -96,13 +103,20 @@ margin-top: 15px;
     margin-top: 20px;
 
 }
+
+.thumbnail {
+    transition: all 0.3s linear !important;
+
+    border: 0px !important;
+}
+
 .owl-dot {
     height: 10px;
     width: 35px;
     border:  2px solid black !important;
     border-radius: 20px;
     margin: 0 5px;
-    transition: all 0,3s ease;
+    transition: all 0,3s linear;
 }
 .owl-dot.active {
     background-color: black !important;
@@ -168,12 +182,12 @@ margin-top: 15px;
     color: rgb(253,101,6);
 }
 .a10 {
-    transition: all 0.5 ease !important;
+    transition: all 0.3 linear !important;
+    border: 0px !important;
 }
 .a10:hover {
-    transform: scale(1.1);
-    transition:  0.5 ease !important;
-    filter: brightness(0.9);
+    transform: scale(1.03);
+    filter: brightness(0.95);
 
 }
 .a11 {
@@ -188,13 +202,15 @@ margin-top: 15px;
 .a13 {
     width: 100%;
     margin-top: 10px;
-    transition: all 0.5 ease !important;
+    transition: all 0.3 linear !important;
+    border: 0px !important;
 }
 .a13:hover {
     filter: brightness(0.7);
 }
 .a14 {
     margin-top: 20px;
+    
 }
 .a16 {
     width: 70px;
@@ -211,4 +227,63 @@ margin-top: 15px;
     background-color: red;
     color: white;
 
+}
+.a20 {
+    margin-top: 10px;
 } 
+.a21 {
+    margin-top: 10px;
+}
+.a21:hover {
+    margin-top: 10px;
+    transition: all 0.4s linear !important;
+    box-shadow: 2px 2px 8px 0.7px black;
+    transform: scale(1.03);
+}
+.a22 {
+    position: relative;
+    left: 50%;
+    bottom: 20px;
+}
+.a23 {
+    position: relative;
+    top: 29px;
+}
+.a24 {
+    margin-right: 13%;
+
+}
+.a25 {
+    border: 2px solid rgb(253,101,6);
+    border-radius: 50px;
+    width: 110px;
+    text-align: center;
+    margin-top: 10px;
+    background-color: white;
+    padding: 5px;
+}
+.a25:hover {
+    background-color: rgb(253,101,6);
+    color: white;
+}
+.a26 {
+    border: 2px solid rgb(253,101,6);
+    border-radius: 50px;
+    width: 150px;
+    text-align: center;
+    margin-top: 10px;
+    background-color: white;
+    padding: 5px;
+    margin-left: 45%;
+}
+.a26:hover {
+    background-color: rgb(253,101,6);
+    color: white;
+}
+.a28 {
+    color: gray;
+    position: relative;
+    left: 3%;
+    top: auto;
+    margin-top: 20px
+}
