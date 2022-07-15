@@ -36,6 +36,11 @@ body {
 }
 .abc10 {
     color: white;
+    margin-left: 10px;
+}
+.abc100 {
+    color: white;
+   
 }
 .a30 {
     margin-top: 5px;
@@ -62,7 +67,7 @@ margin-top: px;
 }
 .abc10 {
 position: relative;
-right: 10px;
+right: 19px;
 
     
 }
@@ -156,7 +161,7 @@ margin-top: 15px;
     color: white;
 }
 .a5 {
-    text-align: center;
+    margin-right: 129px;
     font-weight: bold;
     color: red;
 }
@@ -272,9 +277,11 @@ margin-top: 15px;
     width: 150px;
     text-align: center;
     margin-top: 10px;
+    color: black;
     background-color: white;
     padding: 5px;
-    margin-left: 45%;
+    margin-left: 40%;
+    margin-bottom: 100px;
 }
 .a26:hover {
     background-color: rgb(253,101,6);
@@ -286,4 +293,14 @@ margin-top: 15px;
     left: 3%;
     top: auto;
     margin-top: 20px
+}
+.a31 {
+    color: white;
+    
+}
+.a32 {
+    margin-top: 30px;
+}
+.a33 {
+    margin-top: 10px;
 }
