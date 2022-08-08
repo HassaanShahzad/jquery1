@@ -446,6 +446,7 @@ margin-top: 5px;
     
    
 }
+
 .abc75 {
     font-size: 29px;
     color: rgb(66,149,243);
@@ -475,9 +476,7 @@ margin-top: 5px;
     .abc4 {
         margin-top: 10px;
     }
-    .ab21 {
-        margin-right: 10px;
-    }
+   
     .abc16 {
         border-right: 1px solid gray;
         margin-top: 10px;
@@ -489,6 +488,7 @@ margin-top: 5px;
         .abc30 {
             display: block;
         }
+      
 .spacer {
     height: 40px;
 }
