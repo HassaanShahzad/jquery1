@@ -245,7 +245,7 @@ font-size: 47px;
 }
 .abc42 {
     box-shadow: 5px 5px 15px 5px gray;
-
+    margin-left: 10px;
     margin-top: 10px;
     padding: 10px;
 }
@@ -446,11 +446,13 @@ margin-top: 5px;
     
    
 }
-
 .abc75 {
     font-size: 29px;
     color: rgb(66,149,243);
     margin-left: 55px;
+}
+.ab21 {
+
 }
 
 
@@ -469,6 +471,7 @@ margin-top: 5px;
     .abc70  {
         display: none;
     }
+   
 
     .abc69 {
         display: block;
@@ -476,7 +479,6 @@ margin-top: 5px;
     .abc4 {
         margin-top: 10px;
     }
-   
     .abc16 {
         border-right: 1px solid gray;
         margin-top: 10px;
@@ -488,7 +490,9 @@ margin-top: 5px;
         .abc30 {
             display: block;
         }
-      
+        .ab25 {
+            background-color: black;
+        }
 .spacer {
     height: 40px;
 }
@@ -500,10 +504,10 @@ margin-top: 5px;
     height: 100%;
     box-shadow: 5px 5px 15px 5px gray;
 }
-.abc57 {
- background-color: black;   
-
+.ab2 {
+    background-color: black;
 }
+
 .abc6 {
     
     color: white;
